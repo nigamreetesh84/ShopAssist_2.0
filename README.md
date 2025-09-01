@@ -43,7 +43,7 @@ ShopAssist_2.0/
 
 ### 1. Clone the repository
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/nigamreetesh84/ShopAssist_2.0
 cd ShopAssist_2.0
 ```
 
@@ -114,7 +114,9 @@ The assistant will reply with both conversational text and structured recommenda
 
 ---
 
+## Contact
 
+Created by [Reetesh Nigam](https://github.com/nigamreetesh84)
 
 
 

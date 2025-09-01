@@ -114,7 +114,7 @@ The assistant will reply with both conversational text and structured recommenda
 
 ---
 
-## Contact
+## 📧 Contact
 
 Created by [Reetesh Nigam](https://github.com/nigamreetesh84)
 
